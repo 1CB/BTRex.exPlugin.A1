@@ -1,0 +1,19 @@
+{
+  "name": "Example Plugin 1 - Type A",
+  "version": "1.0.0",
+  "author": "BadAimWeeb",
+  "exec": "main.js",
+  "commandDef": {
+    "test1-a": {
+      "helpArgs": "",
+      "helpDesc": {
+        "vi_VN": "Chạy thử code ví dụ 1 format A",
+        "en_US": "Execute code on example 1 - format A"
+      },
+      "example": [
+        "$@$$?$"
+      ],
+      "funcName": "test1"
+    }
+  }
+}
