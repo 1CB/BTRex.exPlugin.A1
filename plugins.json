@@ -14,7 +14,8 @@
       "example": [
         "$@$$?$"
       ],
-      "funcName": "test1"
+      "funcName": "test1",
+      "compatibly": ["*"]
     }
   },
   "flag": "A!1.0.0"
