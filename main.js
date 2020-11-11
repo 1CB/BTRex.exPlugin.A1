@@ -25,3 +25,5 @@ function test1(msgInfo) {
     }
   }
 }
+
+return { test1 }
