@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "author": "BadAimWeeb",
   "exec": "main.js",
+  "scopeName": "expl1_typea",
   "commandDef": {
     "test1-a": {
       "helpArgs": "",
