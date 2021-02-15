@@ -1,5 +1,3 @@
-async function onLoad() {}
-
 function test1(msgInfo) {
   return {
     handler: "default",
