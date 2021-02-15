@@ -1,2 +1,1 @@
-# nikola-plugin-typeA-ex1
-(Type A) Example plugin for NikolaBot.
+BTRex A-Type Example Plugin 1
